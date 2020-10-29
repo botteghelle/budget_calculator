@@ -1,4 +1,5 @@
 # First of all I need to create a class that will initialize also a dictionay
+# created using classe and PPO
 class Budg_calculator :
     
     def __init__ (self, amount):
